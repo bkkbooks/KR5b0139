@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0139/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0139/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上玄一真人說三途五苦勸戒經
+  date: '2015-08-28 23:49:56.249562'
+  source:
+    repository: kanripo
+    path: KR5b0139
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0139_000-HFL.yaml, hash: 'sha256:4ecbc1bc9d6c582a0102aa41fe20a729492c09d222436410eb6be5cfa94c5f0a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0139_000-HFL.markers.yaml, hash: 'sha256:c6142211cf76337f2cae98bb03677c0bf39a5f58ce6574ae8c5aaff9d97e9ff2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0139_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 609
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:a8542302753915f407a145e9639e4bc5967db87f8c1412fb3a4672e2a2e96d34
