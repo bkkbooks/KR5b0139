@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5b0139/v1
 canonical_location: https://kanripo.org/bkk/KR5b0139/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 太上玄一真人說三途五苦勸戒經
   identifiers:
@@ -32,9 +32,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5b0139_000.yaml, hash: 'sha256:14d8a9780cfbe2d5d02cba1badf5410f047ace7ade35632fe91002adee9b41f8'}
+  - {seq: 0, filename: KR5b0139_000.yaml, hash: 'sha256:daefce0bf5394df07ee3760d424c44227c0707c86e2d15026bb21c7147943874'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0139_000.markers.yaml, hash: 'sha256:8e8490d82c4f7cb1e52e1d56c7945010a771cf36269cfa75565ab8101794b087'}
+  - {seq: 0, role: markers, filename: assets/KR5b0139_000.markers.yaml, hash: 'sha256:2ac91f66bcc9cc2d1cf1bb4010cce5c222671019805fe52efd6bdcde6f0ce90f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:734d82319cf4fbfd26db4e94205bb0fa9b0ed85bf437098f9f4f2ba8867ee22d
+hash: sha256:bbd6d142f374ffd4c9c0f63766f214b6e629758b38ed04fab25b6556cf02c20d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
